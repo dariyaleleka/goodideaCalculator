@@ -111,29 +111,29 @@
 	background-position: 50%
 }
 .field-values-images .image-field:first-child {
-	background-image: url(/1.png)
+	background-image: url(1.png)
 }
 .field-values-images .image-field:nth-child(2) {
-	background-image: url(/2.png)
+	background-image: url(2.png)
 }
 .field-values-images .image-field:nth-child(3) {
-	background-image: url(/3.png)
+	background-image: url(3.png)
 }
 .field-values-images .image-field:nth-child(4) {
-	background-image: url(/4.png)
+	background-image: url(4.png)
 }
 .field-values-images .image-field:nth-child(5) {
-	background-image: url(/5.png)
+	background-image: url(5.png)
 }
 .field-values-images .image-field:nth-child(6) {
-	background-image: url(/6.png)
+	background-image: url(6.png)
 }
 
 .field-values-images .image-field:nth-child(7) {
-	background-image: url(/7.png)
+	background-image: url(7.png)
 }
 .field-values-images .image-field:nth-child(8) {
-	background-image: url(/8.png)
+	background-image: url(8.png)
 }
 @media screen and (max-width:500px) {
 	.field-values-images .image-field:first-child {
